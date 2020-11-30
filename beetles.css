@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+
+
+
+}
+.container{
+    width: 1220px;
+    margin: 0px auto;
+    min-height: 1220px;
+    background-image: url('../opdracht-marges-padding/afb/beetles.jpg');
+
+
+
+
+
+}
